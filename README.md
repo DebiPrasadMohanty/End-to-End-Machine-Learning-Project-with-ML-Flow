@@ -17,12 +17,6 @@
 
 # How to run?
 ### STEPS:
-
-Clone the repository
-
-```bash
-https://github.com/DebiPrasadMohanty/End-to-End-Machine-Learning-Project-with-ML-Flow
-```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
